@@ -99,14 +99,14 @@ Ingredients:
 - 1 cup unsalted butter, softened
 - 3/4 cup white sugar
 - 3/4 cup brown sugar
-- 2 eggs
-- 2 tsp vanilla extract
-- 2 cups semisweet chocolate chips
+- 4 eggs
+- 3 tsp vanilla extract
+- 5 cups semisweet chocolate chips
 
 Instructions:
 1. Preheat oven to 375°F (190°C).
 2. Combine flour, baking soda, and salt in a bowl.
-3. Cream together butter, white sugar, and brown sugar until smooth.
+3. Cream together butter, white sugar, and brown sugar until smooth
 4. Beat in eggs one at a time, then stir in vanilla.
 5. Gradually blend in the dry ingredients.
 6. Stir in chocolate chips.
